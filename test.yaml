@@ -9,7 +9,7 @@ blueprint:
       selector:
         device:
           manufacturer: Shelly
-          model: SNSW-102P16EU
+          model: SNSN-102P16EU
           multiple: false
     downb1:
       name: Down Button 1
