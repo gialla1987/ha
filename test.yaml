@@ -1,11 +1,11 @@
 blueprint:
-  name: Shelly 2 PM Buttons actions
-  description: This blueprint is for the Shelly Plus 2PM setup as button. It is for general use.
+  name: Shelly i4 4 Buttons actions
+  description: This blueprint is for the Shelly i4 setup as button. It is for general use.
   domain: automation
   input:
     button:
       name: button
-      description: Choose Shelly Plus 2PM
+      description: Choose Shelly i4
       selector:
         device:
           manufacturer: Shelly
